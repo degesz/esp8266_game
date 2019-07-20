@@ -1,3 +1,12 @@
+// Hardware setup:
+//
+//                         A0
+//                          |
+//                          |
+//     3.3v  --------/\/\/\/\/\/\/---------gnd
+//                   potentiometer
+//
+//
 //  include libraries
 #include <Ticker.h>
 #include <WebSocketsServer.h>
@@ -9,8 +18,8 @@
 #include "index.h" 
  
 //SSID and Password of your WiFi router
-const char* ssid = "GLM1111";
-const char* password = "Bestcity";
+const char* ssid = "your_ssid";                 //    CHANGE
+const char* password = "your wifi password";    //     THIS
 int value = 0;
  
 ESP8266WebServer server(80); //Server on port 80
