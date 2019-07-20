@@ -1,3 +1,8 @@
+// This code was made by degesz
+//
+// To learn more about javascript games, take a look at https://www.w3schools.com/graphics/game_intro.asp
+// To learn more about websockets, watch https://youtu.be/lEVoRJSsEa8
+//
 // Hardware setup:
 //
 //                         A0
