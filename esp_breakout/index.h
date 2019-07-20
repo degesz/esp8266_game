@@ -209,7 +209,7 @@ function updateGameArea() {
   }
 
 
-  } </script>
+   </script>
   </body>
 </html>
 )=====";
